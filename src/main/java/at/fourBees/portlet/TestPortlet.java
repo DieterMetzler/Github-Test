@@ -29,4 +29,5 @@ import org.osgi.service.component.annotations.Component;
 public class TestPortlet extends MVCPortlet {
 	
 	//First Comment
+	//Second Comment
 }
